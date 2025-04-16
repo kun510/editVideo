@@ -1,0 +1,5 @@
+uvicorn[standard]==0.24.0
+fastapi==0.104.1
+moviepy==1.0.3
+pillow==9.5.0
+python-multipart==0.0.16
